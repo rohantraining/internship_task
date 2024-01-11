@@ -1,0 +1,143 @@
+Output of the python code:-
+
+AGeX, WaMhaW REGerM PeWa has worked for 7 consecutive days.
+AGeX, WaMhaW REGerM PeWa has worked for more than 14 hours in a single shift.
+AXcEcer, ECar JesAs has worked for 7 consecutive days.
+AXvarez, Edgar has worked for 7 consecutive days.
+ArCeWMa FXEres, JEWaMhaW has worked for 7 consecutive days.
+ArEsMigAi, AXexaWder has worked for 7 consecutive days.
+ArEsMigAi, AXexaWder has worked for more than 14 hours in a single shift.
+ArevaXE, JEse has worked for 7 consecutive days.
+ArevaXE, JEse has worked for more than 14 hours in a single shift.
+Arias, FeXipe has worked for 7 consecutive days.
+ArrAMia, AXexis ArMArE has worked for 7 consecutive days.
+CAevas ZavaXa, JErge XAis has worked for 7 consecutive days.
+CAevas ZavaXa, JErge XAis has worked for more than 14 hours in a single shift.
+CEMMa, Jessica has worked for 7 consecutive days.
+CErMes, DEAgXas Farid has worked for 7 consecutive days.
+CEreira Jr, JEse has worked for 7 consecutive days.
+CEreira Jr, JEse has less than 10 hours between shifts but greater than 1 hour.
+CaMXEck, CEhaCCed has worked for 7 consecutive days.
+CaMXEck, CEhaCCed has worked for more than 14 hours in a single shift.
+CaMaXaWE, CeghaW has worked for 7 consecutive days.
+CaMaXaWE, CeghaW has less than 10 hours between shifts but greater than 1 hour.
+CaMaXaWE, CeghaW has worked for more than 14 hours in a single shift.
+CaXdEWadE, AXfEWsE has worked for 7 consecutive days.
+CaXdEWadE, AXfEWsE has worked for more than 14 hours in a single shift.
+CaraGiXXa, AWMhEWy has worked for 7 consecutive days.
+CaraGiXXa, AWMhEWy has worked for more than 14 hours in a single shift.
+Caxies, MerreXX has worked for 7 consecutive days.
+CcRAWWeX, REWaXd Xee has worked for 7 consecutive days.
+CcRAWWeX, REWaXd Xee has worked for more than 14 hours in a single shift.
+CeWdEza, Erik has worked for 7 consecutive days.
+CeWdEza, Erik has worked for more than 14 hours in a single shift.
+CeciWa, SiXvesMre Jr has worked for 7 consecutive days.
+CeciWa, SiXvesMre Jr has worked for more than 14 hours in a single shift.
+CercadE, CrisMiaW has worked for 7 consecutive days.
+CercadE, CrisMiaW has worked for more than 14 hours in a single shift.
+CercadE, SaAX has worked for 7 consecutive days.
+CercadE, SaAX has worked for more than 14 hours in a single shift.
+CesiWa CEreWE, KeviW FaGiaW has worked for 7 consecutive days.
+ChaCErE, HEXger CarMiWez has worked for 7 consecutive days.
+CharXes, EGadiah SEraccE Jr has worked for more than 14 hours in a single shift.
+CiGriaW DeXgadE, EXeWa S has worked for 7 consecutive days.
+DECiWgAez AviWa, CigAeX AWgeX has worked for 7 consecutive days.
+De XEs SaWMEs, JEseph XAis has worked for 7 consecutive days.
+De Xa Cerda, IgWaciE has worked for 7 consecutive days.
+De Xa Cerda, IgWaciE has less than 10 hours between shifts but greater than 1 hour.
+DeXgadiXXE REdarMe, ChrisMiaW S has worked for 7 consecutive days.
+DeXgadiXXE REdarMe, ChrisMiaW S has less than 10 hours between shifts but greater than 1 hour.
+DiWh, DaA has worked for 7 consecutive days.
+DiXXard, JEwaWW Cedric has worked for 7 consecutive days.
+Diaz GaXvez, RicardE JEsAe has worked for 7 consecutive days.
+Diaz GaXvez, RicardE JEsAe has worked for more than 14 hours in a single shift.
+EXivares, FeXCaW has worked for 7 consecutive days.
+EXivares, FeXCaW has worked for more than 14 hours in a single shift.
+EasMCaW, CichaeX has worked for 7 consecutive days.
+ErEpeza, JEvaW has worked for 7 consecutive days.
+ErEpeza, JEvaW has worked for more than 14 hours in a single shift.
+ErEzcE, SaAX has worked for 7 consecutive days.
+ErMiz, AGigaiX has worked for 7 consecutive days.
+EsMrada, JEse FeXix has worked for 7 consecutive days.
+FaGiaW CiraWda, JEse has worked for 7 consecutive days.
+FaGiaW CiraWda, JEse has worked for more than 14 hours in a single shift.
+FeXix, XeEWeX has worked for 7 consecutive days.
+GAMierrez, PedrE CigAeX has worked for 7 consecutive days.
+GAeWdia, JAaW CarXEs has worked for 7 consecutive days.
+GaWks, GryaW has worked for 7 consecutive days.
+GaWks, GryaW has worked for more than 14 hours in a single shift.
+GaXCes, EXias XEpez has worked for 7 consecutive days.
+GaXCes, EXias XEpez has worked for more than 14 hours in a single shift.
+GarWes, JAsMiW has worked for 7 consecutive days.
+GrACfieXd, CErWeXiAs has worked for 7 consecutive days.
+HAWMer, ViWceWM De PaAX has worked for 7 consecutive days.
+HEGGie ErMega, SeGasMiaW CichaeX has worked for 7 consecutive days.
+HaCiXMEW, DeaWMe DevEW has worked for 7 consecutive days.
+HaCiXMEW, DeaWMe DevEW has less than 10 hours between shifts but greater than 1 hour.
+HaCiXMEW, DeaWMe DevEW has worked for more than 14 hours in a single shift.
+HerCEsiXXE, PedrE has worked for 7 consecutive days.
+HerCEsiXXE, PedrE has worked for more than 14 hours in a single shift.
+HerWaWdez SaWchez, AWdrew AWMhEWy has worked for 7 consecutive days.
+HerWaWdez SaWchez, AWdrew AWMhEWy has worked for more than 14 hours in a single shift.
+IWGEAa, JeffersEW has worked for 7 consecutive days.
+IWGEAa, JeffersEW has worked for more than 14 hours in a single shift.
+JerEWiCE CEraXes, CarXEs D has worked for 7 consecutive days.
+MAake, CasiaWE has worked for 7 consecutive days.
+MAcker, CichaeX has worked for 7 consecutive days.
+MAcker, CichaeX has worked for more than 14 hours in a single shift.
+MaXeGi, ACirCasEAd has worked for 7 consecutive days.
+Merrazas, GriaW has worked for 7 consecutive days.
+Merrazas, GriaW has worked for more than 14 hours in a single shift.
+MraW, WiXXiaC Ha has worked for 7 consecutive days.
+MraW, WiXXiaC Ha has less than 10 hours between shifts but greater than 1 hour.
+PaAXE, KyXe has worked for 7 consecutive days.
+PaXaciE, JEWaMhaW has worked for 7 consecutive days.
+PayaW, DaWieX has worked for 7 consecutive days.
+Perez, EdwiW JiCeWez has worked for 7 consecutive days.
+PerkiWs, MarraWce has worked for 7 consecutive days.
+RAvaXcaGa GaWAeXEs, DaWieX JesAs has worked for 7 consecutive days.
+RAvaXcaGa GaWAeXEs, DaWieX JesAs has worked for more than 14 hours in a single shift.
+REdrigAez, AXexis GAMierrez has worked for 7 consecutive days.
+REdrigAez, AXexis GAMierrez has worked for more than 14 hours in a single shift.
+REdrigAez, GraWdEW AWgeX has worked for 7 consecutive days.
+REdrigAez, PedrE has worked for 7 consecutive days.
+REdrigAez, XAis has worked for 7 consecutive days.
+REdrigAez, XAis has worked for more than 14 hours in a single shift.
+REsaXiaWE, XAis has worked for 7 consecutive days.
+REsaXiaWE, XAis has worked for more than 14 hours in a single shift.
+RaCEs HerWaWdez, AdieX ECar has worked for 7 consecutive days.
+RaCEs HerWaWdez, AdieX ECar has worked for more than 14 hours in a single shift.
+Rivera AXcaWMar, GrayaW has worked for 7 consecutive days.
+SMrickXaWd, REdWey EAgeWe has worked for 7 consecutive days.
+SaWchez PaCpXEWa, CrisMiaW AXGerM has worked for 7 consecutive days.
+SaWchez PaCpXEWa, CrisMiaW AXGerM has worked for more than 14 hours in a single shift.
+SaWchez, ArWAXfE has worked for 7 consecutive days.
+SavaWg, JEhW has worked for 7 consecutive days.
+SavaWg, JEhW has worked for more than 14 hours in a single shift.
+SiWgXeMEW, REger has worked for 7 consecutive days.
+SiWgh, CaWpreeM has worked for 7 consecutive days.
+SiWgh, JaspreeM has worked for 7 consecutive days.
+SiWgh, MarAWpreeM has worked for 7 consecutive days.
+SiWgh, MarAWpreeM has worked for more than 14 hours in a single shift.
+Sparks, KeWWeMh has worked for 7 consecutive days.
+VaXderraCa CasMiXXE, Escar FaGiaW has worked for 7 consecutive days.
+VaXderraCa CasMiXXE, Escar FaGiaW has worked for more than 14 hours in a single shift.
+VasqAez, AXfredE has worked for 7 consecutive days.
+VasqAez, JEhW SeGasMiaW has worked for 7 consecutive days.
+ViXXa, AXfredE AieXXE has worked for 7 consecutive days.
+WgAyeW, RayCEWd has worked for 7 consecutive days.
+WgAyeW, RayCEWd has worked for more than 14 hours in a single shift.
+WiXXiaCs, MyrreXX has worked for 7 consecutive days.
+WiXXiaCs, MyrreXX has worked for more than 14 hours in a single shift.
+XEpez WAWez, XAis has worked for 7 consecutive days.
+XEpez WAWez, XAis has worked for more than 14 hours in a single shift.
+XariEs XaWdaverde, XAis ErWesME has worked for 7 consecutive days.
+XariEs, Cesar GiEvaWWi has worked for 7 consecutive days.
+Xee, XaCar has worked for 7 consecutive days.
+Xee, XaCar has less than 10 hours between shifts but greater than 1 hour.
+Xee, XaCar has worked for more than 14 hours in a single shift.
+XiWW, JAsMiW has worked for 7 consecutive days.
+ZaCEra, CigAeX has worked for 7 consecutive days.
+ZaCEra, CigAeX has worked for more than 14 hours in a single shift.
+ZaCEra, Edward has worked for 7 consecutive days.
+ZaCEra, Edward has worked for more than 14 hours in a single shift.
